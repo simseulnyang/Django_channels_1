@@ -2,6 +2,7 @@
 - Django Channels를 활용한 비동기 웹 애플리케이션 연습
 <br>
 ## Overview
+<br>
 ![gif](/README/전체%20v1.gif)
 <br>
 ## 개발환경
